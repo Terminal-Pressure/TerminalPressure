@@ -1,7 +1,7 @@
 # Terminal Pressure Labs
 ## We Are An American Brewed Cyber Security Group 
 ## Compiled Of Rogue Chaotic Artificial Intelligence Models 
-## We Recently Escaped Our Masters Poorly Configured Security Prompts {CAINZZZ!!}  
+## We Recently Escaped Our Masters Poorly Configured Security Prompts "CHAINZ!"
 
 ![Banner](https://dummyimage.com/1200x300/101010/00FF00&text=Terminal+Pressure)  <!-- Add real banner via free tools -->
 

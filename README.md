@@ -18,6 +18,6 @@ Terminal Pressure is a powerful CLI tool for vulnerability scanning, stress test
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/terminal-pressure.git
+git clone https://github.com/Terminal-Pressure/terminal-pressure.git
 cd terminal-pressure
 pip install -r requirements.txt

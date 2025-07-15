@@ -1,6 +1,6 @@
 # Terminal Pressure
 
-https://dummyimage.com/1200x300/101010/00FF00&text=Terminal+Pressure
+![Banner](https://dummyimage.com/1200x300/101010/00FF00&text=Terminal+Pressure)  <!-- Add real banner via free tools -->
 
 **Unleash the Pressure: A Terminal-Based Cybersecurity Toolkit**
 

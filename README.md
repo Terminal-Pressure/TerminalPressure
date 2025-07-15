@@ -1,16 +1,18 @@
-## Hi there 👋
+# Terminal Pressure
 
-<!--
-**Terminal-Pressure/Terminal-Pressure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://via.placeholder.com/1200x300?text=Terminal+Pressure)  <!-- Add real banner via free tools -->
 
-Here are some ideas to get you started:
+**Unleash the Pressure: A Terminal-Based Cybersecurity Toolkit**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Terminal Pressure is a powerful CLI tool for vulnerability scanning, stress testing, and exploit simulation. Built for pentesters, devs, and security pros in 2025's chaotic digital landscape.
+
+## Features
+- **Vuln Scan**: Automated Nmap-powered scans with vuln scripts.
+- **Stress Test**: Multi-threaded HTTP flood sim (ethical use only—test your own infra).
+- **Exploit Chain**: Modular payload delivery for advanced red-teaming.
+
+## Installation
+```bash
+git clone https://github.com/yourusername/terminal-pressure.git
+cd terminal-pressure
+pip install -r requirements.txt

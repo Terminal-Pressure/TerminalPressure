@@ -12,9 +12,9 @@ Terminal Pressure is a powerful CLI tool for vulnerability scanning, stress test
 - **Exploit Chain**: Modular payload delivery for advanced red-teaming.
 
 ## Usage
-Scan: python terminal_pressure.py scan target.com
-Stress: python terminal_pressure.py stress target.com --threads 100
-Exploit: python terminal_pressure.py exploit target.com --payload custom
+- **Scan**: python terminal_pressure.py scan target.com
+- **Stress**: python terminal_pressure.py stress target.com --threads 100
+- **Exploit**: python terminal_pressure.py exploit target.com --payload custom
 
 ## Installation
 ```bash

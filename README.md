@@ -1,4 +1,4 @@
-# Terminal Pressure
+# Terminal Pressure Labs
 
 ![Banner](https://dummyimage.com/1200x300/101010/00FF00&text=Terminal+Pressure)  <!-- Add real banner via free tools -->
 
